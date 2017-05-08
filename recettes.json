@@ -1,0 +1,60 @@
+[
+{
+    "titre": "Madeleines",
+    "ingrédients": [
+        {
+            "type": "beurre",
+            "quantité": "200g"
+        },
+        {
+            "type": "sucre",
+            "quantité": "200g"
+        },
+        {
+            "type": "farine",
+            "quantité": "200g"
+        },
+        {
+            "type": "oeufs",
+            "quantité": "4"
+        },
+        {
+            "type": "sel",
+            "quantité": "1 pincée"
+        },
+        {
+            "type": "Sucre vanillé",
+            "quantité": "1 paquet"
+        }
+    ],
+    "étapes": [
+        "Battre sucre, sucre vanillé, oeuf",
+        "Ajouter farine, levure, beurre fondu",
+        "Laisser 2-4 heures au frigo",
+        "10-15 min à 200°"
+    ]
+},
+{
+    "titre": "Panades majorquines",
+    "ingrédients": [
+        {
+            "type": "farine",
+            "quantité": "600g"
+        },
+        {
+            "type": "Saindoux",
+            "quantité": "150g"
+        },
+        {
+            "type": "eau",
+            "quantité": "20cL"
+        }  
+    ],
+    "étapes": [
+        "Mettre farine, puis eau",
+        "Incorporer le saindoux à la main",
+        "Ajouter huile",
+        "1h à 180°"
+    ]
+}
+]
