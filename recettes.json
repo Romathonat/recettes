@@ -56,5 +56,41 @@
         "Ajouter huile",
         "1h à 180°"
     ]
+},
+{
+    "titre": "Panades majorquines",
+    "ingrédients": [
+        {
+            "type": "oeuf",
+            "quantité": "5"
+        },
+        {
+            "type": "Crème liquide",
+            "quantité": "10 cL"
+        },
+        {
+            "type": "Ciboulette",
+            "quantité": "à vue"
+        },
+        {
+            "type": "Jambon de Pays",
+            "quantité": "100g"
+        },
+        {
+            "type": "Gruyère râpé",
+            "quantité": "100g"
+        },
+        {
+            "type": "Baguette",
+            "quantité": "1"
+        }  
+    ],
+    "étapes": [
+        "Ajouter les oeufs, la créme, la ciboulette le gruyère",
+        "Couper le jambon en morceau, l'ajouter au reste et mélanger",
+        "Couper la baguette en goutière, ajouter la préparation",
+        "25min à 180°",
+        "Couper en tranches pour servir"
+    ]
 }
 ]
